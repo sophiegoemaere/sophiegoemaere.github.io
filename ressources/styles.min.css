@@ -21124,17 +21124,16 @@ section.shop {
     margin: 0 auto;
 }
 .contacts-wrapper__map {
-    height: 250px;
+    height: 400px;
     width: 100%;
     margin-top: 50px;
 }
 @media only screen and (min-width: 1200px) {
     .contacts-wrapper__map {
         position: absolute;
-        top: 5px;
         left: 0;
         width: 100%;
-        height: 250px;
+        height: 400px;
         margin: 0;
     }
 }
